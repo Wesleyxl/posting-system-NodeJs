@@ -4,7 +4,7 @@ module.exports = {
   host: "localhost",
   username: "wesley",
   password: "root",
-  database: "instagram_clone",
+  database: "posting_system",
   define: {
     timestamps: true,
     underscored: true,
